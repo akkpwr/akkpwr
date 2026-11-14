@@ -19,11 +19,11 @@ I'm interested in web development and games.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,sqlite,lua,golang,php,java,rust&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,sqlite,lua,golang,php,java,rust,adobe&perline=8" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,unrealengine,godot,gradle,linux,githubactions,django,docker,git,bootstrap&perline=8" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,vim,postman,ultimate&perline=8" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,vim,postman,ultimate,adobe&perline=8" />
     <br>
   </p>
 </details>
