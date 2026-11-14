@@ -13,7 +13,7 @@ I'm a developer from Ukraine, working at [@AkkpwrDevTeam](https://github.com/Akk
 I'm interested in web development and games.
 
 ## 🙏 Visit my website
-[AKKPWR.com](https://akkpwr.com)
+[AKKPWR.com](https://akkpwr.com) - here you can visit it.
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
