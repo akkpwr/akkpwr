@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hello!+I'm+ARTEMIYKK!)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hello!+I'm+ARTEMIYKK!)](https://git.io/typing-svg)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
