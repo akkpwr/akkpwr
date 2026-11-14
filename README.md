@@ -23,7 +23,7 @@ I'm interested in web development and games.
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,unrealengine,godot,gradle,linux,githubactions,django,docker,git,bootstrap&perline=8" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,vim,photoshop,aftereffects,premierepro&perline=8" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,vim,photoshop,aftereffects,premiere&perline=8" />
     <br>
   </p>
 </details>
