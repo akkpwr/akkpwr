@@ -5,15 +5,15 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast) -->
 
-I'm a backend developer from Russia, working at [@Elixor](https://github.com/ElixorTeam).
+I'm a developer from Ukraine, working at [@AkkpwrDevTeam](https://github.com/AkkpwrDevTeam).
 
-I'm interested in web development and games. Also, I hate JavaScript💀
+I'm interested in web development and games.
 
 ## 🙏 Visit my website
-[BaggerFast's docs](https://baggerfast.github.io/BaggerFast) - Here I post helpful IT manuals. They can be used as references
+[AKKPWR.com](https://akkpwr.com)
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
